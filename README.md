@@ -1,4 +1,5 @@
 # NER タスクを解くために BERT を fine-tuning した
+## modelはサイズが大きいのでuploadしません
 
 ## NER (Named Entity Recognition)：固有表現抽出
 
